@@ -1,3 +1,8 @@
+<br/><br/>
+<br/><br/>
+<p alight="center"><img src=""></p>
+<br/><br/>
+<br/><br/>
 <h1 align="center">Hi 👋, I'm PRATHAMESH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
