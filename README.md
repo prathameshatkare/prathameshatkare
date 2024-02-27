@@ -1,6 +1,7 @@
 <br/><br/>
 <br/><br/>
-<p alight="center"><img src=""></p>
+<h2 align="center"><p alight="center"><img src="QjoV.gif"></p><h2>
+  
 <br/><br/>
 <br/><br/>
 <h1 align="center">Hi 👋, I'm PRATHAMESH</h1>
