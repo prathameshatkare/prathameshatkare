@@ -61,6 +61,27 @@ Welcome to my GitHub profile! Here you'll find various stats about my contributi
 ## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
+<br>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshatkare&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=prathameshatkare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshatkare&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prathameshatkare&abbreviated=true)](https://github.com/prathameshatkare)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshatkare&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
