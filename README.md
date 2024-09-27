@@ -76,9 +76,9 @@ Welcome to my GitHub profile! Here you'll find various stats about my contributi
 <td>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=prathameshatkare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
-<td>
+<!-- <td>
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshatkare&theme=radical" alt="Streak Stats"/>
-</td>
+</td> -->
 </tr>
 </table>
 <br>
