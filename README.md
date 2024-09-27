@@ -29,7 +29,7 @@ Thank you for visiting! If you have any questions or just want to chat, don’t 
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** C++,C,Python
-- **Front-End:** HTML, CSS, React  , React 
+- **Front-End:** HTML, CSS 
 - **Back-End:** Django,Flask
 - **Databases:** MongoDB,Mysql
 - **DevOps:** Docker
