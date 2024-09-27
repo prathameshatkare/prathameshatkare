@@ -1,41 +1,91 @@
-<br/><br/>
-<br/><br/>
-<h2 align="center"><p alight="center"><img src="QjoV.gif"></p><h2>
-  
-<br/><br/>
-<br/><br/>
-<h1 align="center">Hi 👋, I'm PRATHAMESH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Prathamesh Atkare
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshatkare&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshatkare" /> </p>
+![Procoder GIF](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshatkare" alt="prathameshatkare" /></a> </p>
+## 💫 About Me:
+- 🔭 I'm a **Python Developer**
+- 🌱 Currently I am doing  **Problem Solving**
+- 🌱 Pursuing **B.Tech**
+- 👯 I’m looking to collaborate on  projects
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/prathameshatkare)
+- 💬 Ask me about **Python, C and C++**
+- 📫 How to reach me: [prathameshatkare07@gmail.com](mailto:prathameshatkare07@gmail.com)
+ 
+![GitHub Stats](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-<p align="left"> <a href="https://twitter.com/prathamesh90787" target="blank"><img src="https://img.shields.io/twitter/follow/prathamesh90787?logo=twitter&style=for-the-badge" alt="prathamesh90787" /></a> </p>
+Feel free to explore my GitHub profile and get in touch if you want to work on exciting projects together!
+# Welcome to My Profile!
 
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHM**
+## 🌐 Socials:
 
-- 💬 Ask me about **C & CPP**
+Feel free to connect with me through my social media profiles:
 
-- 📫 How to reach me **prathmeshatkare07@gmail.com**
+- [LinkedIn]((https://www.linkedin.com/in/prathamesh-atkare-6223aa255/)) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prathamesh90787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh90787" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prathamesh-atkare-6223aa255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh atkare" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prathmeshatkare07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathameshatkare07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prathmeshatkare2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prathmeshatkare2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prathamesh43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamesh43" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prathamesh suresh atkare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prathamesh suresh atkare" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prathmesh44dz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathmesh44dz" height="30" width="40" /></a>
-<a href="https://discord.gg/daring_beetle_15823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daring_beetle_15823" height="30" width="40" /></a>
-</p>
+Thank you for visiting! If you have any questions or just want to chat, don’t hesitate to reach out.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshatkare&show_icons=true&locale=en&layout=compact" alt="prathameshatkare" /></p>
+Here are some of the technologies and tools I work with:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshatkare&show_icons=true&locale=en" alt="prathameshatkare" /></p>
+- **Programming Languages:** C++,C,Python
+- **Front-End:** HTML, CSS, React  , React 
+- **Back-End:** Django,Flask
+- **Databases:** MongoDB,Mysql
+- **DevOps:** Docker
+- **Tools:** Git
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshatkare&" alt="prathameshatkare" /></p>
+Feel free to explore my projects and reach out if you have any questions or collaboration ideas. Thank you for visiting!
+
+## GSSOC(24) Badges 🪶
+
+<!-- I am excited to share the badges I have earned from the GSSOC (GirlScript Summer of Code) 2024 program. You can find more details and see my achieveme
+
+<div align="center" dir="auto">
+  <a href="https://gssoc.girlscript.tech/leaderboard" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/1.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/2.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/3.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/4.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/5.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/6.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/7.png" width="85px" height="85px" style="max-width: 100%;">
+    <img src="https://github.com/girlscript/gssoc-website-new/raw/main/public/badges/8.png" width="85px" height="85px" style="max-width: 100%;">
+  </a>
+</div> -->
+# Welcome to My GitHub Profile!
+
+Welcome to my GitHub profile! Here you'll find various stats about my contributions, top repositories, and other interesting information. Feel free to explore and connect!
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=prathameshatkare&abbreviated=true)](https://github.com/prathameshatkare)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshatkare&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshatkare&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prathameshatkare&theme=blue-green&hide_border=true)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathameshatkare&theme=blue_green)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathameshatkare&theme=blue_green)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathameshatkare&theme=blue_green&utcOffset=8)
+
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prathameshatkare&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)](https://github.com/prathameshatkare)
+
+
+## ✍️ Random Dev Quote
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🔝 Top Contributed Repo
+
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=prathameshatkare&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=prathameshatkare&limit=5&theme=dark&
+
+
+
+---
+
+Fork 🍴 to create yours 🌟 to support. Happy Coding 😉
