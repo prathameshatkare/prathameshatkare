@@ -84,7 +84,7 @@ Welcome to my GitHub profile! Here you'll find various stats about my contributi
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prathameshatkare&abbreviated=true)](https://github.com/prathameshatkare)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshatkare&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshatkare&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prathameshatkare&theme=blue-green&hide_border=true)
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathameshatkare&theme=blue_green)
