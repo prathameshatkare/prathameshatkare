@@ -107,8 +107,7 @@ Welcome to my GitHub profile! Here you'll find various stats about my contributi
 
 ## 🔝 Top Contributed Repo
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=prathameshatkare&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=prathameshatkare&limit=5&theme=dark&
-
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=prathameshatkare&limit=5&theme=dark&combine_all_yearly_contributions=true)]
 
 
 ---
