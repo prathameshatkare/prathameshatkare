@@ -24,7 +24,7 @@ Feel free to explore my GitHub profile and get in touch if you want to work on e
 
 Feel free to connect with me through my social media profiles:
 
-- [LinkedIn]((https://www.linkedin.com/in/prathamesh-atkare-6223aa255/)) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-atkare-6223aa255/)
 
 Thank you for visiting! If you have any questions or just want to chat, don’t hesitate to reach out.
 
