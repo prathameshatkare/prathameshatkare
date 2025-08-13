@@ -1,81 +1,48 @@
+![Prathamesh Banner](prathameshatkare.png)
 
-<!-- Hey there, I'm Prathamesh Atkare! 🚀 -->
+<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=PrathameshAtkare%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners) -->
 
-<h1 align="center">Hi, I'm Prathamesh Atkare 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathameshatkare&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/prathameshatkare?label=Follow&style=social" alt="GitHub Followers" />
+<!-- My name is Prathamesh Atkare. I'm an undergraduate from 🇮🇳 ![wakatime](https://visitor-badge.laobi.icu/badge?page_id=prathameshatkare.prathameshatkare&) -->
+
+My name is Prathamesh Atkare. I'm an undergraduate from 🇮🇳 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prathameshatkare.prathameshatkare)
+
+<img align="right" width="50%" src="https://streak-stats.demolab.com/?user=prathameshatkare&theme=merko&hide_border=true">
+
+- 💻 Full Stack Dev in progress
+- ✏️ JavaScript
+- 📦 [Ubuntu](https://ubuntu.com/) / [vscode](https://code.visualstudio.com) / [chrome](https://www.google.com/chrome)
+- 🌱 Exploring new opportunities in tech!
+- 💭 Ask me anything at [Twitter](https://x.com/prathameshatk)!
+- 📌 Most active on [prathameshatkare](https://github.com/prathameshatkare)
+
+---
+
+<h2 align="left">🌐 Connect with me</h2>
+
+<p align="left">
+  <a href="https://discord.gg/MWRNwrkS8x" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prathameshatkare/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/prathameshatk" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://dev.to/prathameshatkare" target="_blank">
+    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://prathameshatkare.notion.site/webdevjourney" target="_blank">
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@prathameshatkare" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
----
+<h2 align="left">💻 Tech Stack</h2>
 
-🌱 **ML Explorer** | 🕸️ **Web Dev** | 🐍 **Python Maniac** | 🛠️ **Builder & Automator**
-
-- 🚩 Always looking for the next big challenge!
-- 🧑‍🎓 Student, coder, and hackathon junkie.
-- 🤖 "Automate everything" is my motto.
-
----
-
-## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/prathameshatkare/CROP_PREDICTION">
-    <img src="https://img.shields.io/badge/CROP_PREDICTION-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://github.com/prathameshatkare/Youtube-downloader">
-    <img src="https://img.shields.io/badge/Youtube--downloader-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/prathameshatkare/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://github.com/prathameshatkare/Investo">
-    <img src="https://img.shields.io/badge/Investo-%232760A3.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://github.com/prathameshatkare/Collaborative-Virtual-Workspace-with-Mixed-Reality">
-    <img src="https://img.shields.io/badge/Mixed--Reality-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-  <a href="https://github.com/prathameshatkare/ExpenseTracker">
-    <img src="https://img.shields.io/badge/ExpenseTracker-%2300C853.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Toolbox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-## 🚀 Quick Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshatkare&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshatkare&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prathameshatkare/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/pratham_atkare"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://prathameshatkare.github.io"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><b>“Dream big. Code bigger.”</b> 🚀</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![C
