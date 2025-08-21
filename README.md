@@ -10,7 +10,8 @@
 
 ## Code Stats
 ![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshatkare&show_icons=true&theme=dark)   
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=prathameshatkare&theme=dark)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark)
+
 
 
 ## Visitor count
