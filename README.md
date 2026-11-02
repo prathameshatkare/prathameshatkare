@@ -8,8 +8,6 @@
 - Exploring Open Source and making meaningful contributions.
 - If you enjoy my work and would like to support me, please consider sponsoring me.
 
-## Code Stats
-![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshatkare&show_icons=true&theme=dark)   
 
 
 
