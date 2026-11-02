@@ -13,10 +13,6 @@
 
 
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=prathmeshatkare07&theme=dark)
-
-
-
 
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@prathameshatkare?theme=rule34)
