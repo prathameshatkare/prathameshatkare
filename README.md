@@ -12,8 +12,6 @@
 
 
 
-## Visitor count
-![Visitor Count](https://count.getloli.com/get/@prathameshatkare?theme=rule34)
 
 
 
